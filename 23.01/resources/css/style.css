@@ -1,0 +1,21 @@
+body{
+     background-color: lightblue;
+}
+
+.tablu{
+       border: 3px solid black;
+}
+
+td, th{
+  border: 3px solid black;
+  padding: 5px 10px;
+}
+
+#second{
+  width: 50%;
+  border: thin solid black;
+  border-radius: 15px;
+  padding: 50px 70px;
+  margin: 50px auto;
+
+}
