@@ -1,5 +1,6 @@
 body{
-     background-color: lightblue;
+  background-image: url(https://cdn2.vectorstock.com/i/1000x1000/39/16/vintage-ethnic-ornament-mandala-background-vector-1353916.jpg);
+
 }
 
 .tablu{
@@ -17,5 +18,26 @@ td, th{
   border-radius: 15px;
   padding: 50px 70px;
   margin: 50px auto;
+  overflow: none;
+}
+
+.Pics{
+    text-align: center;
+    background-image: url(https://c7.uihere.com/files/349/694/474/elegant-blue-mandala-background-thumb.jpg);
+    height: 400;
+    width: 500;
+    border: 5px solid black;
+    padding: 50px 200px;
+    margin: 50px 200px;
+    overflow: hidden;
+}
+
+
+
+
+
+img{
+  border: thin solid black;
+  border-radius: 50%;
 
 }
