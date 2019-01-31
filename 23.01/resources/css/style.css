@@ -1,15 +1,12 @@
 body{
-  background-image: url(https://cdn2.vectorstock.com/i/1000x1000/39/16/vintage-ethnic-ornament-mandala-background-vector-1353916.jpg);
-
 }
 
 .tablu{
        border: 3px solid black;
 }
 
-td, th{
+th ,td{
   border: 3px solid black;
-  padding: 5px 10px;
 }
 
 #second{
@@ -32,12 +29,24 @@ td, th{
     overflow: hidden;
 }
 
-
-
-
-
 img{
   border: thin solid black;
   border-radius: 50%;
+  position: static;
+  right: 100px;
+}
 
+#third{
+  text-align: center;
+  height: auto;
+  width: auto;
+  border: medium solid blue;
+  border-radius: 7px;
+  padding: 30px 50px;
+  margin: 50px 70px;
+}
+
+.Soup{
+  position: static;
+  left: 50%;
 }
